@@ -88,37 +88,7 @@
 
 ---
 
-## 🚀 Featured Projects
 
-### 🌱 EcoWatch Pro
-
-AI-powered public cleanliness surveillance and smart municipal management system.
-
-**Technologies:**
-
-`Python` `YOLOv8` `ByteTrack` `MediaPipe` `ArcFace` `FastAPI` `PostgreSQL`
-
----
-
-### 🏥 Health Risk Prediction System
-
-Machine Learning based system for predicting multiple disease risks with explainable AI and personalized insights.
-
-**Technologies:**
-
-`Python` `Scikit-learn` `XGBoost` `SHAP` `Flask` `MongoDB`
-
----
-
-### 📊 CSV Analyst
-
-AI-powered application for analyzing CSV datasets and interacting with structured data using natural language.
-
-**Technologies:**
-
-`Python` `FastAPI` `React` `Pandas` `Machine Learning`
-
----
 
 ## 📚 Currently Working On
 
