@@ -1,17 +1,133 @@
-## Hi, I'm Advika Chaithra
+<h1 align="center">Hi 👋, I'm Your Name</h1>
 
+<h3 align="center">Information Science & Engineering Student | AI/ML Enthusiast</h3>
 
-<!--
-**AdvikaChaithra/AdvikaChaithra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Passionate about Machine Learning, Artificial Intelligence, Problem Solving,
+  Backend Development, and Building Real-World Projects.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 B.E. in Information Science & Engineering
+- 🤖 Interested in Machine Learning and Artificial Intelligence
+- 💻 Strong interest in Python, Java and Backend Development
+- 🧠 Currently improving my Data Structures & Algorithms skills
+- 🔬 Interested in Computer Vision and AI-based applications
+- 🚀 Love building practical, real-world projects
+- 🌱 Always learning and exploring new technologies
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
+
+### 🌐 Web Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🌱 EcoWatch Pro
+
+AI-powered public cleanliness surveillance and smart municipal management system.
+
+**Technologies:**
+
+`Python` `YOLOv8` `ByteTrack` `MediaPipe` `ArcFace` `FastAPI` `PostgreSQL`
+
+---
+
+### 🏥 Health Risk Prediction System
+
+Machine Learning based system for predicting multiple disease risks with explainable AI and personalized insights.
+
+**Technologies:**
+
+`Python` `Scikit-learn` `XGBoost` `SHAP` `Flask` `MongoDB`
+
+---
+
+### 📊 CSV Analyst
+
+AI-powered application for analyzing CSV datasets and interacting with structured data using natural language.
+
+**Technologies:**
+
+`Python` `FastAPI` `React` `Pandas` `Machine Learning`
+
+---
+
+## 📚 Currently Working On
+
+- 🧠 Data Structures & Algorithms in Java
+- 💻 LeetCode Problem Solving
+- 🤖 Machine Learning Fundamentals
+- 👁️ Computer Vision
+- ⚙️ Backend Development
+- 🚀 AI/ML Projects
+- 🌐 Open Source Contributions
+
+---
+
+## 🎯 Career Interests
+
+```text
+Machine Learning Engineer
+AI Engineer
+Software Engineer
+Computer Vision Engineer
+Backend Engineer
