@@ -95,7 +95,7 @@
 - 🧠 Data Structures & Algorithms 
 - 💻 LeetCode Problem Solving
 - 🤖 Computer Science & Machine Learning Fundamentals
-- 👁️ Computer Vision
+- 👁️ Computer Vision Projects
 - ⚙️ Backend Development
 - 🚀 AI/ML Projects
 - 🌐 Open Source Contributions
@@ -105,8 +105,12 @@
 ## 🎯 Career Interests
 
 ```text
+Software Development Engineer
+Backend Engineer
 Machine Learning Engineer
 AI Engineer
-Software Engineer
+Forward Deployed Engineer
+AI Analyst
+ML Analyst
 Computer Vision Engineer
-Backend Engineer
+
